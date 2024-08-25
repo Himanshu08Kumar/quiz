@@ -1,0 +1,52 @@
+[
+    {
+      "question": "1. What is the capital of France?",
+      "options": ["A) Madrid", "B) Berlin", "C) Paris", "D) Rome"],
+      "answer": "C"
+    },
+    {
+      "question": "2. What is the largest planet in our Solar System?",
+      "options": ["A) Earth", "B) Jupiter", "C) Mars", "D) Saturn"],
+      "answer": "B"
+    },
+    {
+      "question": "3. Who wrote 'To Kill a Mockingbird'?",
+      "options": ["A) Harper Lee", "B) Mark Twain", "C) J.K. Rowling", "D) Ernest Hemingway"],
+      "answer": "A"
+    },
+    {
+      "question": "4. What is the smallest prime number?",
+      "options": ["A) 0", "B) 1", "C) 2", "D) 3"],
+      "answer": "C"
+    },
+    {
+      "question": "5. Which element has the chemical symbol 'O'?",
+      "options": ["A) Gold", "B) Oxygen", "C) Osmium", "D) Organium"],
+      "answer": "B"
+    },
+    {
+      "question": "6. What is the name of the longest river in the world?",
+      "options": ["A) Amazon", "B) Nile", "C) Yangtze", "D) Mississippi"],
+      "answer": "B"
+    },
+    {
+      "question": "7. Which language is primarily spoken in Brazil?",
+      "options": ["A) Spanish", "B) French", "C) Portuguese", "D) English"],
+      "answer": "C"
+    },
+    {
+      "question": "8. What is the process of water vapor turning into liquid water called?",
+      "options": ["A) Evaporation", "B) Condensation", "C) Sublimation", "D) Precipitation"],
+      "answer": "B"
+    },
+    {
+      "question": "9. What is the speed of light?",
+      "options": ["A) 3 x 10^8 m/s", "B) 1 x 10^6 m/s", "C) 5 x 10^7 m/s", "D) 7 x 10^9 m/s"],
+      "answer": "A"
+    },
+    {
+      "question": "10. Who is the founder of Microsoft?",
+      "options": ["A) Steve Jobs", "B) Elon Musk", "C) Bill Gates", "D) Mark Zuckerberg"],
+      "answer": "C"
+    }
+  ]

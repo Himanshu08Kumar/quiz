@@ -6,7 +6,7 @@ const Summary = ({ answers }) => {
   const totalQuestions = answers.length;
   const percentage = ((correctCount / totalQuestions) * 100).toFixed(2);
   const home = () =>{
-    
+
   }
 
   return (
@@ -33,7 +33,6 @@ const Summary = ({ answers }) => {
         ))}
       </ul>
       </div>
-      <button onClick={home}>Back to Quiz</button>
     </div>
   );
 };
